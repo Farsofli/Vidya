@@ -4,7 +4,8 @@
 [ext_resource path="res://Player.gd" type="Script" id=2]
 
 [node name="Main Scene" type="Node2D"]
+position = Vector2( 165, 131 )
 
 [node name="Player" parent="." instance=ExtResource( 1 )]
-position = Vector2( 73, 110 )
+position = Vector2( 0, 0 )
 script = ExtResource( 2 )
