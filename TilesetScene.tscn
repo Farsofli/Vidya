@@ -5,7 +5,7 @@
 [node name="Node2D" type="Node2D"]
 
 [node name="Tiles_grass0" type="Sprite" parent="."]
-position = Vector2( 419.212, 413.786 )
+position = Vector2( 384, 416 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -15,7 +15,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass1" type="Sprite" parent="."]
-position = Vector2( 487.47, 414.396 )
+position = Vector2( 448, 416 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -25,7 +25,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass2" type="Sprite" parent="."]
-position = Vector2( 555.227, 415.513 )
+position = Vector2( 512, 416 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -35,7 +35,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass3" type="Sprite" parent="."]
-position = Vector2( 620.355, 417.343 )
+position = Vector2( 576, 416 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -45,7 +45,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass4" type="Sprite" parent="."]
-position = Vector2( 683.71, 415.446 )
+position = Vector2( 640, 416 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -55,7 +55,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass5" type="Sprite" parent="."]
-position = Vector2( 750.503, 417.276 )
+position = Vector2( 704, 416 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -65,7 +65,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass6" type="Sprite" parent="."]
-position = Vector2( 816.69, 417.815 )
+position = Vector2( 768, 416 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -75,7 +75,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass7" type="Sprite" parent="."]
-position = Vector2( 882.424, 417.979 )
+position = Vector2( 832, 416 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -85,7 +85,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass8" type="Sprite" parent="."]
-position = Vector2( 950.254, 418.913 )
+position = Vector2( 896, 416 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -95,7 +95,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass9" type="Sprite" parent="."]
-position = Vector2( 1019.06, 421.744 )
+position = Vector2( 960, 416 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -105,7 +105,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass10" type="Sprite" parent="."]
-position = Vector2( 420.983, 460.357 )
+position = Vector2( 384, 448 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -115,7 +115,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass11" type="Sprite" parent="."]
-position = Vector2( 488.645, 460.632 )
+position = Vector2( 448, 448 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -125,7 +125,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass12" type="Sprite" parent="."]
-position = Vector2( 553.805, 460.967 )
+position = Vector2( 512, 448 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -135,7 +135,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass13" type="Sprite" parent="."]
-position = Vector2( 621.061, 461.323 )
+position = Vector2( 576, 448 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -145,7 +145,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass14" type="Sprite" parent="."]
-position = Vector2( 686.776, 460.321 )
+position = Vector2( 640, 448 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -155,7 +155,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass15" type="Sprite" parent="."]
-position = Vector2( 750.008, 459.965 )
+position = Vector2( 704, 448 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -165,7 +165,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass16" type="Sprite" parent="."]
-position = Vector2( 815.111, 458.842 )
+position = Vector2( 768, 448 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -175,7 +175,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass17" type="Sprite" parent="."]
-position = Vector2( 881.897, 459.965 )
+position = Vector2( 832, 448 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -185,7 +185,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass18" type="Sprite" parent="."]
-position = Vector2( 945.878, 459.965 )
+position = Vector2( 896, 448 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -195,7 +195,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass19" type="Sprite" parent="."]
-position = Vector2( 1016.59, 464.455 )
+position = Vector2( 960, 448 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -205,7 +205,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass20" type="Sprite" parent="."]
-position = Vector2( 418.882, 502.057 )
+position = Vector2( 384, 480 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -215,7 +215,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass21" type="Sprite" parent="."]
-position = Vector2( 486.791, 504.863 )
+position = Vector2( 448, 480 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -225,7 +225,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass22" type="Sprite" parent="."]
-position = Vector2( 547.403, 502.619 )
+position = Vector2( 512, 480 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -235,7 +235,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass23" type="Sprite" parent="."]
-position = Vector2( 616.435, 502.057 )
+position = Vector2( 576, 480 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -245,7 +245,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass24" type="Sprite" parent="."]
-position = Vector2( 683.221, 500.374 )
+position = Vector2( 640, 480 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -255,7 +255,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass25" type="Sprite" parent="."]
-position = Vector2( 744.396, 501.496 )
+position = Vector2( 704, 480 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -265,7 +265,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass26" type="Sprite" parent="."]
-position = Vector2( 805.57, 500.935 )
+position = Vector2( 768, 480 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -275,7 +275,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass27" type="Sprite" parent="."]
-position = Vector2( 867.866, 504.302 )
+position = Vector2( 832, 480 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -285,7 +285,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass28" type="Sprite" parent="."]
-position = Vector2( 936.898, 503.741 )
+position = Vector2( 896, 480 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -295,7 +295,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass29" type="Sprite" parent="."]
-position = Vector2( 1007.61, 505.986 )
+position = Vector2( 960, 480 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -305,7 +305,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass30" type="Sprite" parent="."]
-position = Vector2( 421.142, 541.526 )
+position = Vector2( 384, 512 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -315,7 +315,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass31" type="Sprite" parent="."]
-position = Vector2( 488.489, 541.246 )
+position = Vector2( 448, 512 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -325,7 +325,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass32" type="Sprite" parent="."]
-position = Vector2( 555.276, 542.088 )
+position = Vector2( 512, 512 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -335,7 +335,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass33" type="Sprite" parent="."]
-position = Vector2( 616.73, 540.685 )
+position = Vector2( 576, 512 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -345,7 +345,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass34" type="Sprite" parent="."]
-position = Vector2( 750.303, 540.965 )
+position = Vector2( 704, 512 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -355,7 +355,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass36" type="Sprite" parent="."]
-position = Vector2( 817.09, 540.404 )
+position = Vector2( 768, 512 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -365,7 +365,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass37" type="Sprite" parent="."]
-position = Vector2( 883.876, 539.001 )
+position = Vector2( 832, 512 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -375,7 +375,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass38" type="Sprite" parent="."]
-position = Vector2( 948.699, 538.159 )
+position = Vector2( 896, 512 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -385,7 +385,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass39" type="Sprite" parent="."]
-position = Vector2( 1016.05, 539.562 )
+position = Vector2( 960, 512 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -395,7 +395,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass40" type="Sprite" parent="."]
-position = Vector2( 418.214, 577.36 )
+position = Vector2( 384, 544 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -405,7 +405,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass41" type="Sprite" parent="."]
-position = Vector2( 490.029, 581.139 )
+position = Vector2( 448, 544 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -415,7 +415,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass42" type="Sprite" parent="."]
-position = Vector2( 561.845, 581.139 )
+position = Vector2( 512, 544 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -425,7 +425,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass43" type="Sprite" parent="."]
-position = Vector2( 631.77, 581.769 )
+position = Vector2( 576, 544 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -435,7 +435,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass44" type="Sprite" parent="."]
-position = Vector2( 704.216, 585.549 )
+position = Vector2( 640, 544 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -445,7 +445,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass45" type="Sprite" parent="."]
-position = Vector2( 773.511, 584.289 )
+position = Vector2( 704, 544 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -455,7 +455,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass46" type="Sprite" parent="."]
-position = Vector2( 842.807, 581.769 )
+position = Vector2( 768, 544 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -465,7 +465,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass47" type="Sprite" parent="."]
-position = Vector2( 914.623, 583.659 )
+position = Vector2( 832, 544 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -475,7 +475,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass48" type="Sprite" parent="."]
-position = Vector2( 985.178, 584.289 )
+position = Vector2( 896, 544 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -485,7 +485,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass49" type="Sprite" parent="."]
-position = Vector2( 1059.51, 586.809 )
+position = Vector2( 960, 544 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -495,7 +495,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass50" type="Sprite" parent="."]
-position = Vector2( 415.694, 630.906 )
+position = Vector2( 384, 576 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -505,7 +505,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass51" type="Sprite" parent="."]
-position = Vector2( 495.069, 632.166 )
+position = Vector2( 448, 576 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -515,7 +515,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass52" type="Sprite" parent="."]
-position = Vector2( 574.444, 630.906 )
+position = Vector2( 512, 576 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -525,7 +525,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass53" type="Sprite" parent="."]
-position = Vector2( 665.158, 637.206 )
+position = Vector2( 576, 576 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -535,7 +535,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass54" type="Sprite" parent="."]
-position = Vector2( 739.494, 634.686 )
+position = Vector2( 640, 576 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -545,7 +545,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass55" type="Sprite" parent="."]
-position = Vector2( 821.389, 638.466 )
+position = Vector2( 704, 576 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -555,7 +555,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass56" type="Sprite" parent="."]
-position = Vector2( 894.464, 633.426 )
+position = Vector2( 768, 576 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -565,7 +565,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass57" type="Sprite" parent="."]
-position = Vector2( 973.839, 639.726 )
+position = Vector2( 832, 576 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -575,7 +575,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass58" type="Sprite" parent="."]
-position = Vector2( 1058.25, 634.686 )
+position = Vector2( 896, 576 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -585,7 +585,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass59" type="Sprite" parent="."]
-position = Vector2( 1127.55, 639.726 )
+position = Vector2( 960, 576 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -595,7 +595,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass60" type="Sprite" parent="."]
-position = Vector2( 421.994, 686.343 )
+position = Vector2( 384, 608 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -605,7 +605,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass61" type="Sprite" parent="."]
-position = Vector2( 503.889, 690.123 )
+position = Vector2( 448, 608 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -615,7 +615,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass62" type="Sprite" parent="."]
-position = Vector2( 587.043, 687.603 )
+position = Vector2( 512, 608 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -625,7 +625,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass63" type="Sprite" parent="."]
-position = Vector2( 665.159, 690.123 )
+position = Vector2( 576, 608 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -635,7 +635,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass64" type="Sprite" parent="."]
-position = Vector2( 743.274, 687.603 )
+position = Vector2( 640, 608 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -645,7 +645,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass65" type="Sprite" parent="."]
-position = Vector2( 831.468, 687.603 )
+position = Vector2( 704, 608 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -655,7 +655,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass66" type="Sprite" parent="."]
-position = Vector2( 913.363, 690.123 )
+position = Vector2( 768, 608 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -665,7 +665,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass67" type="Sprite" parent="."]
-position = Vector2( 992.738, 685.083 )
+position = Vector2( 832, 608 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -675,7 +675,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass68" type="Sprite" parent="."]
-position = Vector2( 1068.33, 688.863 )
+position = Vector2( 896, 608 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -685,7 +685,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass69" type="Sprite" parent="."]
-position = Vector2( 1143.93, 690.122 )
+position = Vector2( 960, 608 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -695,7 +695,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass70" type="Sprite" parent="."]
-position = Vector2( 415.694, 748.079 )
+position = Vector2( 384, 640 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -705,7 +705,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass71" type="Sprite" parent="."]
-position = Vector2( 511.448, 750.599 )
+position = Vector2( 448, 640 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -715,7 +715,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass72" type="Sprite" parent="."]
-position = Vector2( 593.343, 751.859 )
+position = Vector2( 512, 640 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -725,7 +725,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass73" type="Sprite" parent="."]
-position = Vector2( 679.018, 755.638 )
+position = Vector2( 576, 640 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -735,7 +735,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass74" type="Sprite" parent="."]
-position = Vector2( 755.873, 754.378 )
+position = Vector2( 640, 640 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -745,7 +745,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass75" type="Sprite" parent="."]
-position = Vector2( 833.988, 753.119 )
+position = Vector2( 704, 640 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -755,7 +755,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass76" type="Sprite" parent="."]
-position = Vector2( 914.623, 751.859 )
+position = Vector2( 768, 640 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -765,7 +765,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass77" type="Sprite" parent="."]
-position = Vector2( 987.698, 753.119 )
+position = Vector2( 832, 640 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -775,7 +775,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass78" type="Sprite" parent="."]
-position = Vector2( 1083.45, 753.119 )
+position = Vector2( 896, 640 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -785,7 +785,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass79" type="Sprite" parent="."]
-position = Vector2( 1159.05, 756.898 )
+position = Vector2( 960, 640 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true
@@ -795,7 +795,7 @@ __meta__ = {
 }
 
 [node name="Tiles_grass35" type="Sprite" parent="."]
-position = Vector2( 684.92, 540.404 )
+position = Vector2( 640, 512 )
 texture = ExtResource( 1 )
 centered = false
 region_enabled = true

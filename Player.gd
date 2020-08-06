@@ -1,22 +1,29 @@
 extends KinematicBody2D
 
-var score : int = 0
-var speed : int = 201
+var MAX_SPEED = 500
+var ACCELERATION = 2000
+var motion = Vector2.ZERO
 
-var vel : Vector2 = Vector2()
-
-onready var sprite : Sprite = get_node("Player_down")
-
-#loaded every 60 sec
 func _physics_process(delta):
+	var axis = get_input_axis()
+	if axis == Vector2.ZERO:
+		apply_friction(ACCELERATION * delta)
+	else:
+		apply_movement(axis * ACCELERATION * delta)
+	motion = move_and_slide(motion)
 	
-	vel.x = 0
+func get_input_axis():
+	var axis = Vector2.ZERO
+	axis.x = int(Input.is_action_pressed("move_right")) - int(Input.is_action_pressed("move_left"))
+	axis.y = int(Input.is_action_pressed("move_down")) - int(Input.is_action_pressed("move_up"))
+	return axis.normalized()
 	
-	if Input.is_action_pressed("move_left"):
-		vel.x -= speed
-		
-	if Input.is_action_pressed("move_right"):
-		vel.x +=speed
-		
-	vel = move_and_slide(vel, Vector2.UP)
+func apply_friction(amount):
+	if motion.length() > amount:
+		motion -= motion.normalized() * amount
+	else:
+		motion = Vector2.ZERO
 	
+func apply_movement(acceleration):
+	motion += acceleration
+	motion = motion.clamped(MAX_SPEED)
